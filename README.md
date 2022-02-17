@@ -18,4 +18,5 @@
 │ ├[+] Team2 : Jeeck x nano, Riski
 │ └[+] Team2 : Black SEQUAD
 └─
+<img src="https://komarev.com/ghpvc/?username=Xenzi-XN1&label=Views&color=green&style=plastic" alt="views">
 ```
