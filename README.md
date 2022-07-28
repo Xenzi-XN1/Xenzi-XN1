@@ -20,16 +20,16 @@
 └─
 ```
 ### My Biodata
-```json
-Info = {
-"Full name": "Aldi Bachtiar rifai",
-"Nick name": "Xenzi Ganz",
-"Status": "Pelajar SMP 3",
-"City": "Bandung",
-"Province": "Jawa Barat",
-"Country": "Indonesia",
-"Age": "14 years",
-"Birthday": "xx/01/2007"
+```python
+return {
+    "Full name": "Aldi Bachtiar rifai",
+    "Nick name": "Xenzi Ganz",
+    "Status": "Pelajar SMP 3",
+    "City": "Bandung",
+    "Province": "Jawa Barat",
+    "Country": "Indonesia",
+    "Age": "14 years",
+    "Birthday": "xx/01/2007"
 } 
 ```
 <img src="https://komarev.com/ghpvc/?username=Xenzi-XN1&label=Views&color=green&style=plastic" alt="views">
