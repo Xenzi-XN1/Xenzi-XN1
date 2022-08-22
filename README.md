@@ -16,7 +16,6 @@
 │ ┌[!] Team Team Saya
 │ ├[+] Team1 : Polygon, Panglima Jateng
 │ ├[+] Team2 : Jeeck x nano, Riski
-│ └[+] Team2 : Black SEQUAD
 └─
 ```
 ### My Biodata
