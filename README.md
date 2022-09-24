@@ -32,3 +32,7 @@ return {
 } 
 ```
 <img src="https://komarev.com/ghpvc/?username=Xenzi-XN1&label=Views&color=green&style=plastic" alt="views">
+
+# Donasi buat beli kopi hehe >_<
+https://saweria.co/XenziGanz
+
