@@ -1,38 +1,18 @@
-### Welcome to My Github 
+[![Xenzi-XN1 header]()](https://fb.me/g4rzk)
 
-```python
-┌─
-│ ┌[!] Media Sosial Me 🌍🌍
-│ ├[+] Author : Xenzi Ganzz
-│ ├[+] YouTube : XENZI GANZZ
-│ └[+] Contact : +6281288572373
-└─
- ┌─
- │ ┌[!] Programmer 📝📝
- │ ├[+] Program : python ( basic )
- │ ├[+] Program : Bash ( basic )
- └─
-┌─
-│ ┌[!] Team Team Saya
-│ ├[+] Team1 : Polygon, Panglima Jateng
-│ ├[+] Team2 : Jeeck x nano, Riski
-└─
-```
-### My Biodata
-```python
-return {
-    "Full name": "Aldi Bachtiar rifai",
-    "Nick name": "Xenzi Ganz",
-    "Status": "Pelajar SMP 3",
-    "City": "Bandung",
-    "Province": "Jawa Barat",
-    "Country": "Indonesia",
-    "Age": "14 years",
-    "Birthday": "xx/01/2007"
-} 
-```
-<img src="https://komarev.com/ghpvc/?username=Xenzi-XN1&label=Views&color=green&style=plastic" alt="views">
 
-# Donasi buat beli kopi hehe >_<
-https://saweria.co/XenziGanz
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Xenzi-XN1.Xenzi-XN1" />
+  <a href="https://github.com/g4rzk"><img src="https://img.shields.io/github/followers/Xenzi-XN1?label=followers&style=social"/></a>
+  </a>
+</p>
 
+### About Me
+
+ - 👨‍🦱 My name is `Aldi Bachtiar rifai`
+ - 🏠 Live in `Bandung, Jawa Barat`
+ - 👶🏻 Born in `Cirebon, Indonesia`
+ - 🌐 Language
+   - 🇮🇩 Indonesian
+   - 🇮🇩 Sunda Empire
+   - 🇮🇩 Jawa Empire
