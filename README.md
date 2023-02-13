@@ -16,4 +16,4 @@
    - 🇮🇩 Indonesian
    - 🇮🇩 Sunda Empire
    - 🇮🇩 Jawa Empire
-   - 📞 wa.me/6281288572373
+
