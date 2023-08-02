@@ -11,7 +11,7 @@
 
  - 👨‍🦱 My name is `Aldi Bachtiar rifai`
  - 🏠 Live in `Bandung, Jawa Barat`
- - 👶🏻 Born in `Cirebon, Indonesia`
+ - 👶🏻 Born in `Jawa Barat, Indonesia`
  - 🌐 Language
    - 🇮🇩 Indonesian
    - 🇮🇩 Sunda Empire
