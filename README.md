@@ -9,7 +9,7 @@
 
 ### About Me
 
- - 👨‍🦱 My name is `Aldi Bachtiar rifai`
+ - 👨‍🦱 My name is `Xenzi-XN1`
  - 🏠 Live in `Bandung, Jawa Barat`
  - 👶🏻 Born in `Jawa Barat, Indonesia`
  - 🌐 Language
